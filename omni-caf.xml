@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 
   <remote  name="omnirom"
-           fetch="https://github.com/omnirom"
+           fetch="https://github.com/kagiyamahina2023"
            review="gerrit.omnirom.org" />
 
   <project path="external/libnetfilter_conntrack" name="android_external_libnetfilter_conntrack" remote="omnirom" revision="android-9.0" />
